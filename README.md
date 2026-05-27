@@ -37,8 +37,6 @@ My technical work focuses on Linux-based systems education, low-level computing,
 | `learn-c-programming` | Teaching | Structured C examples, exercises, and Makefile-based builds for systems students |
 | `Thread-Safe-User-Space-Queue` | Operating Systems | Producer-consumer queue implementation using pthreads, mutexes, and condition variables |
 | `Thread-Safe-Kernel-Space-Queue` | Kernel Programming | Kernel-space queue implementation exploring synchronization and system-call interaction |
-%| `llm-iam-risk-mapping` | AI Security | Mapping OWASP LLM risks to NIST CSF 2.0 for identity systems |
-%| `os-runtime-attestation` | Research | Prototype for OS-observable evidence in runtime trust decisions |
 
 ## Technical Areas
 
